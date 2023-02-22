@@ -125,11 +125,6 @@ public ResponseEntity<?> deleteMovie(@PathVariable(value = "id") String movieId)
 
 That's it! You now have a functional Java SpringBoot backend Movie-API with MongoDB.
 
-## Run the example of embedding HTML5 application into a Java Swing window
-
-
-## More Info
-Pleae reach out if you have any questions
 
 ## Disclaimers
 * This is a starter example and intended to demonstrate to app providers a sample of how to approach an implementation. There are potentially other ways to approach it and alternatives could be considered. 

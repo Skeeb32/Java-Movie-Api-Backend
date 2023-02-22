@@ -137,7 +137,7 @@ Pleae reach out if you have any questions
 
 
 ## Built With:
-<a href=“https://www.mongodb.com/“ target=“_new”>• MongoDB</a> - MongoDB Atlas <img src="https://www.clipartmax.com/png/small/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png" alt="Mongodb Leaf Open Source Nosql Database Startups - Mongodb Logo @clipartmax.com" width='30' /> </br>  
+<a href=“https://www.mongodb.com/“ target=“_new”>• MongoDB</a> - MongoDB Atlas <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='30' /> </br>  
 
 
 <a href=“https://start.spring.io/“ target=“_new”>• Springboot</a> - Microserves Tool <img src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg' width='30'/> </br> 

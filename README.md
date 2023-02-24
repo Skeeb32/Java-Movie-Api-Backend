@@ -131,14 +131,15 @@ That's it! You now have a functional Java SpringBoot backend Movie-API with Mong
 * Its possible that the repo is not actively maintained.
 
 
-## Built With:
+## Programming Languages:
+<a href=“https://www.oracle.com/java/“ target=“_new”>• Java</a> - Java Library for Object-oriented Programming Language <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> </br>  
+
+## Technologies: 
 <a href=“https://www.mongodb.com/“ target=“_new”>• MongoDB</a> - MongoDB Atlas: Cloud-hosted NoSQL Database Platform <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='30' /> </br>  
 
 <a href=“https://start.spring.io/“ target=“_new”>• Springboot</a> - Web Framework for Java <img src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg' width='30'/> </br> 
 
 <a href=“https://www.postman.com/“ target=“_new”>• Postman</a> - API Development and Testing Tool <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' width='30'/> </br> 
-
-<a href=“https://www.oracle.com/java/“ target=“_new”>• Java</a> - Java Library for Object-oriented Programming Language <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> </br>  
 
 
 ## Authors
